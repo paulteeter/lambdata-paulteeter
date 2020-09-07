@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="pt_lambdata", 
-    version="0.0.1",
+    version="0.0.2",
     author="Paul Teeter",
     author_email="paul-teeter@lambdastudents.com",
     description="A small collection of basic data utility functions.",
@@ -15,3 +15,4 @@ setup(
     url="https://github.com/paulteeter/lambdata-paulteeter",
     packages=find_packages()
     )
+    
