@@ -15,3 +15,4 @@ setup(
     url="https://github.com/paulteeter/lambdata-paulteeter",
     packages=find_packages()
     )
+    

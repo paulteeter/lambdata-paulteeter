@@ -6,10 +6,14 @@ verify_ssl = true
 [dev-packages]
 twine = "*"
 jupyter = "*"
+autopep8 = "*"
+flake8 = "*"
 
 [packages]
 pandas = "*"
 sklearn = "*"
+pylint = "*"
+flake8 = "*"
 
 [requires]
 python_version = "3.8"
