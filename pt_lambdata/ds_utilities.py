@@ -84,6 +84,5 @@ class PiercedNose(Nose):
         super().__init__(dataframe)
 
     def piercing_cleaner(self):
-        self.dataframe
-
-
+        print(self.dataframe)
+        
