@@ -6,6 +6,9 @@ This module is to assist in cleaning out data and simple wrangling.
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
+# data= {'first_name': ['Jason', 'Molly', 'Jake', 'Amy'],
+#    ...: 'last_name': ['Miller', 'Jacobson','Milner', 'Smith'],
+#    ...: 'age': [41, 22, 55, 19]}
 
 class Nose:
     """
